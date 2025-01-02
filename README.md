@@ -1,6 +1,7 @@
 # **Customer Feedback Sentiment Analyzer**
 ![image](https://github.com/user-attachments/assets/865b0405-c9ff-415d-8f01-6d4332800ad5)
-![image](https://github.com/user-attachments/assets/0fcf96bf-c23f-4f11-b3de-7d06769a5a33)
+![image](https://github.com/user-attachments/assets/2f87e015-3ab5-45cd-a6a4-fdf483c85810)
+
 
 
 This project is a **Streamlit-based web application** designed to perform sentiment analysis on customer feedback. It supports both single feedback input and batch processing via CSV uploads. The project uses **TextBlob** for sentiment analysis and visualizes results using **matplotlib** and **seaborn**.
